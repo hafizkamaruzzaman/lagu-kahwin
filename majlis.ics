@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hafiz Balqis//Walimatul Urus//MS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:walimatul-urus-hafiz-balqis-20261219@hafizkamaruzzaman
+DTSTAMP:20261031T050000Z
+DTSTART:20261219T030000Z
+DTEND:20261219T080000Z
+SUMMARY:Walimatul Urus Hafiz & Balqis
+LOCATION:Ritz Garden Hotel\, Seri Manjung\, Perak
+DESCRIPTION:Majlis perkahwinan Mohamad Hafiz & Balqis Batrisyia.\nKad jemputan: https://theweddingofhafizbalqis.my.canva.site/hafizlovebalqis
+URL:https://theweddingofhafizbalqis.my.canva.site/hafizlovebalqis
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Esok: Walimatul Urus Hafiz & Balqis
+END:VALARM
+END:VEVENT
+END:VCALENDAR
